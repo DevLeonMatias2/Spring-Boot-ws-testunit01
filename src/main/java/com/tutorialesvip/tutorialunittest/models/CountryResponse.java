@@ -16,7 +16,6 @@ public class CountryResponse {
         this.countryName = countryName;
     }
 
-
     public void setCapitalName(String capitalName) {
         this.capitalName = capitalName;
     }
